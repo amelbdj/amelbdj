@@ -16,7 +16,6 @@ I love building projects from scratch and experimenting with new technologies.
 ## A Bit About Me
 - 🏀 Basketball fan and content creator (@warrow_yt)  
 - 💻 Always learning new coding skills and frameworks  
-- 🎮 Gamer and creator of the PlayMate project  
 - 🎨 Creative side: building LEGO projects and designing apps  
 - ☕ Not really a coffee person  
 - 😄 Fun fact: I’m building a LEGO version of Luffy’s hat  

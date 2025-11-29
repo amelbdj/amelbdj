@@ -22,5 +22,4 @@ I love building projects from scratch and experimenting with new technologies.
 
 ---
 
-Feel free to reach out if you want to collaborate or chat about coding, basketball, or fun projects!  
-📫 [Instagram @warrow_yt](https://www.instagram.com/warrow_yt/)
+

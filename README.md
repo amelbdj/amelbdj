@@ -13,8 +13,7 @@ I love building projects from scratch and experimenting with new technologies.
 
 ---
 
-## A Bit About Me
-- 🏀 Basketball fan and content creator (@warrow_yt)  
+## A Bit About Me 
 - 💻 Always learning new coding skills and frameworks  
 - 🎨 Creative side: building LEGO projects and designing apps  
 - ☕ Not really a coffee person  
